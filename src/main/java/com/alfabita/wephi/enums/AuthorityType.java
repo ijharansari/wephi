@@ -1,0 +1,10 @@
+package com.alfabita.wephi.enums;
+
+public enum AuthorityType {
+    SUPER_ADMIN_AUTHORITY,
+    USER_ADMIN_AUTHORITY,
+    USER_VIEW_ONLY_AUTHORITY,
+    PASSPORT_OWNER_AUTHORITY,
+    DEMO_USER_AUTHORITY,
+    RESELLER_AUTHORITY
+}
